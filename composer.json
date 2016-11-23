@@ -1,0 +1,21 @@
+{
+  "name": "urameshibr/crud",
+  "description": "Sistema de cadastro de clientes sem uso de framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Rodrigues",
+      "email": "lucas.opensource@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "core/"
+    },
+    "files":[
+      "core/Helpers/Helpers.php"
+    ]
+  }
+}

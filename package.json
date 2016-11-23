@@ -1,0 +1,29 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Sistema de cadastro sem uso de framework",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urameshibr/crud.git"
+  },
+  "keywords": [
+    "crud",
+    "php",
+    "cadastro",
+    "cliente",
+    "customer"
+  ],
+  "author": "Lucas Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urameshibr/crud/issues"
+  },
+  "homepage": "https://github.com/urameshibr/crud#readme",
+  "dependencies": {
+    "gentelella": "^1.3.0"
+  }
+}
